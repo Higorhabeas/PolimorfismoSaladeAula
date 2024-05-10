@@ -1,3 +1,4 @@
+using System;
 public class Veiculo
 {
     public string tipo;

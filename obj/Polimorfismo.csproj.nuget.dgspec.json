@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\cursos\\sistemas de informação\\2024_01\\disciplinas\\POO\\Polimorfismo\\Polimorfismo.csproj": {}
+    "C:\\Cursos\\Sistema de informação\\1_2024\\Diciplinas\\POO\\POO_Polimorfismo_interfaces\\PolimorfismoSaladeAula\\Polimorfismo.csproj": {}
   },
   "projects": {
-    "C:\\cursos\\sistemas de informação\\2024_01\\disciplinas\\POO\\Polimorfismo\\Polimorfismo.csproj": {
+    "C:\\Cursos\\Sistema de informação\\1_2024\\Diciplinas\\POO\\POO_Polimorfismo_interfaces\\PolimorfismoSaladeAula\\Polimorfismo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\cursos\\sistemas de informação\\2024_01\\disciplinas\\POO\\Polimorfismo\\Polimorfismo.csproj",
+        "projectUniqueName": "C:\\Cursos\\Sistema de informação\\1_2024\\Diciplinas\\POO\\POO_Polimorfismo_interfaces\\PolimorfismoSaladeAula\\Polimorfismo.csproj",
         "projectName": "Polimorfismo",
-        "projectPath": "C:\\cursos\\sistemas de informação\\2024_01\\disciplinas\\POO\\Polimorfismo\\Polimorfismo.csproj",
-        "packagesPath": "C:\\Users\\higor_y\\.nuget\\packages\\",
-        "outputPath": "C:\\cursos\\sistemas de informação\\2024_01\\disciplinas\\POO\\Polimorfismo\\obj\\",
+        "projectPath": "C:\\Cursos\\Sistema de informação\\1_2024\\Diciplinas\\POO\\POO_Polimorfismo_interfaces\\PolimorfismoSaladeAula\\Polimorfismo.csproj",
+        "packagesPath": "C:\\Users\\higor_kwmzknu\\.nuget\\packages\\",
+        "outputPath": "C:\\Cursos\\Sistema de informação\\1_2024\\Diciplinas\\POO\\POO_Polimorfismo_interfaces\\PolimorfismoSaladeAula\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\higor_y\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\higor_kwmzknu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

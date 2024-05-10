@@ -1,19 +1,20 @@
 
-    
+using System;   
+
+
 
 public class Carro : Veiculo, Iacelerar{
     public string modelo;
     public string marca;
 
-    public Carro (string _modelo, string _marca,string tipo, string placa) {
+    public Carro(string _tipo, string _placa,string _modelo, string _marca) : base (_tipo,_placa){
         this.modelo = _modelo;
         this.marca = _marca;
-        this.tipo = tipo;
-        this.placa = placa;
+        
         
     }
 
-    public void Acelera (Carro c){
+    public void Acelera (){
 
        
             Console.WriteLine("Acelera Airtonnnnnn!!!");
